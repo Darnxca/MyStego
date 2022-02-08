@@ -8,3 +8,9 @@ Si compone di 4 moduli:
 - Modulo di compressione;
 - Modulo crittografico;
 - Modulo steganografico
+
+## Script Python
+Sono presenti due script python RMS-python.py e PSNR-python.py utilizzati per calcolare gli indici RMS e PSNR delle foto.
+
+## MyStego.apk
+Apk dell'app MyStego
