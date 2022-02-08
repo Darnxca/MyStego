@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703594505142",
+    "project_id": "mystego-a7955",
+    "storage_bucket": "mystego-a7955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703594505142:android:50b61f52f5796fd85ad717",
+        "android_client_info": {
+          "package_name": "com.example.mystego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703594505142-8k8bjai1uvd6j5m2310iio8rb9tjtj03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwiJ_hLdZko_ufShI8lgL8MW5wxO5yOCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703594505142-8k8bjai1uvd6j5m2310iio8rb9tjtj03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

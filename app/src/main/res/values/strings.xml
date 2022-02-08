@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyStego</string>
+    <string name="encode">Encode</string>
+    <string name="decode">Decode</string>
+    <string name="channel_name">myStegoApp</string>
+    <string name="channel_description">notificheMyStegoApp</string>
+    <string name="logout">logout</string>
+    <string name="key">key generator</string>
+    <string name="dialog_message">You are about to generate new keys for this device, the previous ones will be replaced, are you sure?</string>
+    <string name="dialog_title">Generation of new keys</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="inviare">Who do you want to send to?</string>
+</resources>
