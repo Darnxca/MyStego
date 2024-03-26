@@ -12,5 +12,5 @@ Si compone di 4 moduli:
 ## Script Python
 Sono presenti due script python RMS-python.py e PSNR-python.py utilizzati per calcolare gli indici RMS e PSNR delle foto.
 
-## MyStego.apk
+##  MyStego.apk
 Apk dell'app MyStego
